@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/projet-aj-creative/static/js/main.4f8765f7.chunk.js",
+    "main.js.map": "/projet-aj-creative/static/js/main.4f8765f7.chunk.js.map",
+    "runtime-main.js": "/projet-aj-creative/static/js/runtime-main.a51a2c69.js",
+    "runtime-main.js.map": "/projet-aj-creative/static/js/runtime-main.a51a2c69.js.map",
+    "static/js/2.06582ebd.chunk.js": "/projet-aj-creative/static/js/2.06582ebd.chunk.js",
+    "static/js/2.06582ebd.chunk.js.map": "/projet-aj-creative/static/js/2.06582ebd.chunk.js.map",
+    "index.html": "/projet-aj-creative/index.html",
+    "static/js/2.06582ebd.chunk.js.LICENSE.txt": "/projet-aj-creative/static/js/2.06582ebd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a51a2c69.js",
+    "static/js/2.06582ebd.chunk.js",
+    "static/js/main.4f8765f7.chunk.js"
+  ]
+}
